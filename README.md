@@ -1,5 +1,5 @@
 # MultiCurrencyConverterGUI
-1.文件结构(可以复制到word文档或者记事本，这里的结构格式被打乱了）
+1.文件结构（可以复制到word文档或者记事本，这里的结构格式被打乱了）
 MultiCurrencyConverterGUI
 src/
 ├── model/
