@@ -1,5 +1,5 @@
 # MultiCurrencyConverterGUI
-文件结构
+1.文件结构(可以复制到word文档或者记事本，这里的结构格式被打乱了）
 MultiCurrencyConverterGUI
 src/
 ├── model/
@@ -13,10 +13,10 @@ src/
 │
 └── Main.java 
 
-编译整个项目：
+2.编译整个项目：
 在 src 的目录里 cmd :
 javac model/*.java service/*.java ui/*.java Main.java
 
-运行：
+3.运行：
 回到 src 的上一层目录 cmd :
 java -cp src Main
