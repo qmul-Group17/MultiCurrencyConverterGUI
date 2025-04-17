@@ -1,0 +1,2 @@
+# MultiCurrencyConverterGUI
+MultiCurrencyConverter has GUI
